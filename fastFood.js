@@ -90,13 +90,13 @@ function fastFood(nombre, apellido, tipoHamburguesa, jamon, queso, salsaTomate, 
 
 
 let mensaje1 = fastFood("Daniel", "Fuentes", "carne", true, false, false, true, true, false, true, false);
-console.log(mensaje1); 
+// console.log(mensaje1); 
 
 let mensaje2 = fastFood("María", "González", "pollo", true, true, true, false, false, true, false, true);
-console.log(mensaje2); 
+// console.log(mensaje2); 
 
 let mensaje3 = fastFood("Juan", "Pérez", "vegetariana", false, false, false, false, false, false, false, false);
-console.log(mensaje3);
+// console.log(mensaje3);
 
 
 // 6. Luego de hacer las pruebas todos los console.log() deben quedar comentados.
